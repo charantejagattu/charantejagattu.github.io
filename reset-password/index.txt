@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[6926,["380","static/chunks/380-486fed3de12a930c.js","177","static/chunks/app/layout-18c6f0f0dd045f92.js"],"default"]
+3:I[4223,[],""]
+4:I[1475,[],""]
+5:"$Sreact.suspense"
+6:I[1140,["700","static/chunks/app/reset-password/page-baf9035cfd69f048.js"],"default"]
+7:I[7277,[],"OutletBoundary"]
+a:I[9211,[],"AsyncMetadataOutlet"]
+c:I[7277,[],"ViewportBoundary"]
+e:I[7277,[],"MetadataBoundary"]
+10:I[5850,[],""]
+:HL["/_next/static/css/991efdcd1ebedf92.css","style"]
+:HL["/_next/static/css/99cfffaa0dde0221.css","style"]
+0:{"P":null,"b":"TNtExOLuyVkGorOqs-6p9","p":"","c":["","reset-password",""],"i":false,"f":[[["",{"children":["reset-password",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/991efdcd1ebedf92.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/99cfffaa0dde0221.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{}],["$","main",null,{"className":"container my-4","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":["reset-password",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"row justify-content-center","children":["$","div",null,{"className":"col-md-6","children":[["$","h2",null,{"className":"text-center mb-4","children":"Reset Password"}],["$","$5",null,{"fallback":["$","div",null,{"children":"Loading form..."}],"children":["$","$L6",null,{}]}]]}]}],null,["$","$L7",null,{"children":["$L8","$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","2m6cTfnICs_oyeHj2U0CVv",{"children":[["$","$Lc",null,{"children":"$Ld"}],null]}],["$","$Le",null,{"children":"$Lf"}]]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
+11:I[9211,[],"AsyncMetadata"]
+f:["$","div",null,{"hidden":true,"children":["$","$5",null,{"fallback":null,"children":["$","$L11",null,{"promise":"$@12"}]}]}]
+9:null
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+b:{"metadata":[["$","title","0",{"children":"Fintech AI Platform"}],["$","meta","1",{"name":"description","content":"A fintech platform with AI-driven insights"}]],"error":null,"digest":"$undefined"}
+12:{"metadata":"$b:metadata","error":null,"digest":"$undefined"}
